@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "APpAk3nADb7GAkcEJ9NQvMhZfTry6PkpsiFk5dQ9dgI=",
+  "Source": "WebApplication1",
+  "BasePath": "_content/WebApplication1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication1\\wwwroot",
+      "Source": "WebApplication1",
+      "ContentRoot": "C:\\Users\\Farid\\Desktop\\New folder\\ClassRoom\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
